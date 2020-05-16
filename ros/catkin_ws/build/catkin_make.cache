@@ -1,0 +1,2 @@
+beginner_tutorials
+-DPYTHON_EXECUTABLE=/usr/local/bin/python3.5 -DCATKIN_DEVEL_PREFIX=/home/vikash/programs/ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vikash/programs/ros/catkin_ws/install -G Unix Makefiles
